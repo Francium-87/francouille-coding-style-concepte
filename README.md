@@ -3,7 +3,7 @@ it's a new coding style concepte
 
 example:
 
-<code>
+```
 /*
 	the francouille coding style concept
 	- it's more 
@@ -35,4 +35,4 @@ example:
 																	   //===================\\
 //                                                              	   ||  	ok   			||
 //																	   \\===================//
-</code>
+```
